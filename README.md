@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm Jesús - Aka Chuy 😎</h1>
-<h3 align="center">I'm a computer science student at at Platzi and Universidad Politecnica de Puebla who is passionate about writing code, solving problem and automating stuff.</h3>
+<h3 align="center">I'm a computer science student at Platzi and Universidad Politecnica de Puebla.</h3>
 
 - 🌱 I’m currently learning **React, Angular**
 
